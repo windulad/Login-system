@@ -1,0 +1,3 @@
+windu windu@hotmail.com 1234
+chari chari@hotmail.com 1234
+windu | chari@gmail.com | 1234
